@@ -1,6 +1,6 @@
 # LLM-study
 书生大模型实战营四期个人仓库，持续更新中~
-[四期训练营logo](camp4.png)
+![四期训练营logo](camp4.png)
 
 **相关链接**
 - [浦源开源平台](https://openxlab.org.cn/home)
